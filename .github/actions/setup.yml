@@ -1,0 +1,8 @@
+# setup-composite.yml
+
+name: Run pull request stats setup
+
+runs:
+  using: 'composite'
+  steps:
+    - uses: actions/setup-python@v4
