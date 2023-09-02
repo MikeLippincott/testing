@@ -12,5 +12,5 @@ jobs:
         uses: flowwer-dev/pull-request-stats@master
         with:
           repositories: 'MikeLippincott/testing'
-          webhook: 'https://discord.com/api/webhooks/1141173398857326662/kI4CnThKEyvW0Ts2QOQ6Fw092regqQTWltR5DMQPVNvKO800JlRTtddPZ441M4zrnJas'
+          webhook: 'https://hooks.zapier.com/hooks/catch/16402047/35x4zm6/'
           # webhook: ${{ secrets.WEBHOOK_URL }} You may want to store this value as a secret.
